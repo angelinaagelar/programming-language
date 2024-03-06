@@ -6,3 +6,5 @@ _текст может быть курсивом и **полужирным**_
 ## lists
 ## link
 ## tables
+## images
+![hi im a dog](images.jpg)
